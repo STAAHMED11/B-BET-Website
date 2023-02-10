@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>How to read CSV files in JS</title>
+</head>
+
+<body>
+    <button style="display:block;width:120px; height:30px;" onclick="document.getElementById('uploadfile').click()">Your text here</button>
+    <input name='Predict' type="file" id="uploadfile" accept=".csv">
+    <button id="uploadconfirm">Upload File</button>
+    <button onclick="update('HomeTeam')">Update</button>
+    <script src="https://cdn.jsdelivr.net/npm/papaparse@5.3.2/papaparse.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <div>
+        <canvas id="myChart"></canvas>
+    </div>
+    <script src="charts.js "></script>
+
+</body>
+
+</html>
