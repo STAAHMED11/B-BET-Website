@@ -1,7 +1,7 @@
 # B-Bet
 
 ![B-Bet Landing](https://github.com/STAAHMED11/B-BET-Website/blob/6bfdcb354750031818a93b1b3bdeb036b3f2be37/landing.png)
-
+![B-Bet result example](https://github.com/STAAHMED11/B-BET-Website/blob/6cc06662e16566d8188c7e5a7d4d72c54f53900a/resultpage.png)
 ## Overview
 
 B-Bet website uses data analysis and machine learning algorithms to predict the probability of a team winning a match based on various factors. B-BET may also provide users with visualizations of these statistics to help them make more informed decisions when placing bets.
