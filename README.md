@@ -1,6 +1,6 @@
 # B-Bet
 
-![B-Bet Landing](https://github.com/STAAHMED11/B-BET-Website/landing.png)
+![B-Bet Landing](https://github.com/STAAHMED11/B-BET-Website/blob/6bfdcb354750031818a93b1b3bdeb036b3f2be37/landing.png)
 
 ## Overview
 
