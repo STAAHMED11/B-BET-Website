@@ -1,6 +1,6 @@
 # B-Bet
 
-![B-Bet Logo](path/to/your/image.png)
+![B-Bet Landing](Screenshot from 2023-10-27 11-33-17.png)
 
 ## Overview
 
