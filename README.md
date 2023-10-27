@@ -28,4 +28,4 @@ The project involved the following technologies and tools:
 
 ## How to Use
 
-To use B-Bet,You visit the B-Bet website
+To use B-Bet, You visit the B-Bet website https://b-bet.netlify.app/
