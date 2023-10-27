@@ -1,6 +1,6 @@
 # B-Bet
 
-![B-Bet Landing](Screenshot from 2023-10-27 11-33-17.png)
+![B-Bet Landing](/![B-Bet Logo](https://github.com/STAAHMED11/B-BET-Website/Screenshot from 2023-10-27 11-33-17.png)
 
 ## Overview
 
